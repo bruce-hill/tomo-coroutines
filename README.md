@@ -1,7 +1,7 @@
 # Tomo Coroutine Library
 
-This is a coroutine library built on top of a modified version of
-[libaco](https://libaco.org).
+This is a coroutine library for [Tomo](https://tomo.bruce-hill.com) built on
+top of a modified version of [libaco](https://libaco.org).
 
 ## Example Usage
 
@@ -9,6 +9,7 @@ This is a coroutine library built on top of a modified version of
 # modules.ini
 [coroutines]
 version=v1.0
+git=https://github.com/bruce-hill/tomo-coroutines
 ```
 
 ```tomo
